@@ -1,0 +1,28 @@
+H1
+{
+    font-size: 120px;
+    text-align: center;
+letter-spacing:10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color:grey;
+text-shadow: 5px 10px 10px black,11px 5px 4px pink,5px 10px 10px red;
+
+}
+.wrap
+    {
+        border: 600px;
+        background: grey;
+
+    }
+body{
+    font-family:sans-serif;
+    width: 600px;
+
+}
+blockquote
+{
+    border: 1px solid grey;
+    width: 600px;
+    text-align: center;
+    margin-left:0;
+}

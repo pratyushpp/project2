@@ -1,0 +1,25 @@
+.wrap{
+width: 70%;
+margin:auto;
+background:rgb(114, 30, 30);
+
+}
+.content , aside{
+    height: 200px;
+}
+.content{
+    background: rgb(64, 64, 83);
+    float:left;
+    width: 60%;
+
+}
+aside
+{
+    background: rgb(57, 59, 51);
+    float:left;
+    width:40%
+}
+aside ul{
+    padding-left: 10;
+    list-style: lower-alpha;
+}
